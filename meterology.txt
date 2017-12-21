@@ -1,0 +1,44 @@
+<p style="text-align: center;"><span style="text-decoration: underline;">Meteorology</span></p>
+<p style="text-align: center;">by John Shelley</p>
+<p style="text-align: center;">What is Meteorology?: it is the branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.</p>
+<p style="text-align: center;">To start off, there are many famous meteorologists. Here is some of them so you can get to know the topic:</p>
+<p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Famous Meteorologists: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;There discoveries:</p>
+<table style="height: 130px; margin-left: auto; margin-right: auto;" width="389">
+<tbody>
+<tr>
+<td style="width: 186.5px;">&nbsp;
+<h3 class="heading">William Ferrell</h3>
+</td>
+<td style="width: 186.5px;">&nbsp;Ferrell worked to develop theories that explained atmospheric circulation at mid-latitudes in great detail.</td>
+</tr>
+<tr>
+<td style="width: 186.5px;">
+<h3 class="heading">John Dalton</h3>
+</td>
+<td style="width: 186.5px;">He figured out that all matter is actually made up of small particles. Made Fahrenheit.</td>
+</tr>
+<tr>
+<td style="width: 186.5px;">
+<h3 class="heading">Gabriel Fahrenheit</h3>
+</td>
+<td style="width: 186.5px; text-align: left;">He figured out how temperature is expressed and how it can be expressed in Fahrenheit.</td>
+</tr>
+<tr style="text-align: center;">
+<td style="width: 186.5px;">&nbsp;
+<h3 class="heading" style="text-align: left;">Alfred Wegener</h3>
+</td>
+<td style="width: 186.5px;">He was most famous for his theory of Continental Drift.&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="width: 186.5px;">
+<h3 class="heading" style="text-align: left;">Anders Celsius</h3>
+&nbsp;</td>
+<td style="width: 186.5px;">published a collection of aurora borealis observations.&nbsp;Also, he proposed his Celsius Temperature Scale</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="https://www.thoughtco.com/famous-meteorologists-3444421">https://www.thoughtco.com/famous-meteorologists-3444421</a> &nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+
